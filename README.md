@@ -1,28 +1,26 @@
-<h2>Hello Traveler...🚶</h2>
-<h1 align="center">👋I'm Marcin</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Marcin+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</h1>
+
+
 
 ### :man_technologist: About Me :
 
-- :telescope: I’m Java developer from Poland.
-
+- :telescope: Hi, I'm Marcin Zwierzchowski, Java developer from Poland.
+- 💻 I love to learn new technologies and frameworks.
 - 🔭 I’m currently working on [KaraokeMaker](https://github.com/ZwierzchowskiM/KaraokeMaker)
 
 Check out demo song which was created using KaraokeMaker
 <div align="left">
   <a href="https://www.youtube.com/watch?v=tBCPIKT7ZMw"><img src="https://github.com/ZwierzchowskiM/ZwierzchowskiM/blob/main/KaraokeMakerDemo.PNG" width="600" height="300">
-  
 </div>
-
 - 🌱 I’m currently learning **PostgreSQL, Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcin-zwierzchowski-magab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcin-zwierzchowski-magab/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/marcin-zwierzchowski-magab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:marcin.zwierzchowski1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,6 +37,12 @@ Check out demo song which was created using KaraokeMaker
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zwierzchowskim&show_icons=true&locale=en" alt="zwierzchowskim" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zwierzchowskim&show_icons=true&locale=en&layout=compact" alt="zwierzchowskim" /></p>
+  
+<br> 
+<h3 align="left">🐍 Snake eating my contribution 🐍</h3>
+  
+![snake gif](https://github.com/zwierzchowskim/zwierzchowskim/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
