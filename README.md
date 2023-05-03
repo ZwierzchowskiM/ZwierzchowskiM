@@ -10,7 +10,7 @@
 
 - :telescope: Hi, I'm Marcin Zwierzchowski, Java developer from Poland.
 - 💻 I love to learn new technologies and frameworks.
-- 🔭 I’m currently working on [KaraokeMaker](https://github.com/ZwierzchowskiM/KaraokeMaker)
+- 🔭 I’m currently working on [KaraokeMaker](https://github.com/ZwierzchowskiM/karaoke-maker)
 
 Check out demo song which was created using KaraokeMaker
 <div align="left">
