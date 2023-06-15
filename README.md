@@ -10,13 +10,13 @@
 
 - :telescope: Hi, I'm Marcin Zwierzchowski, Java developer from Poland.
 - 💻 I love to learn new technologies and frameworks.
-- 🔭 I’m currently working on [KaraokeMaker](https://github.com/ZwierzchowskiM/karaoke-maker)
+- 🔭 I’m currently working on [PhotoAlbumApp](https://github.com/ZwierzchowskiM/photo-album-app)
 
-Check out demo song which was created using KaraokeMaker
+Check out demo song which was created using my project KaraokeMaker
 <div align="left">
   <a href="https://www.youtube.com/watch?v=tBCPIKT7ZMw"><img src="https://github.com/ZwierzchowskiM/ZwierzchowskiM/blob/main/KaraokeMakerDemo.PNG" width="600" height="300">
 </div>
-- 🌱 I’m currently learning **PostgreSQL, Kubernetes**
+- 🌱 I’m currently learning **Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/marcin-zwierzchowski-magab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
