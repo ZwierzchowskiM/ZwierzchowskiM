@@ -4,20 +4,28 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi,+I'm+Marcin+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-
-
-### :man_technologist: About Me :
-
 - :telescope: Hi, I'm Marcin Zwierzchowski, Java developer from Poland.
 - 💻 I love to learn new technologies and frameworks.
 - 🔭 I’m currently working on [PhotoAlbumApp](https://github.com/ZwierzchowskiM/photo-album-app)
 
-Check out demo song which was created using my project KaraokeMaker
-<div align="left">
-  <a href="https://www.youtube.com/watch?v=tBCPIKT7ZMw"><img src="https://github.com/ZwierzchowskiM/ZwierzchowskiM/blob/main/KaraokeMakerDemo.PNG" width="600" height="300">
-</div>
-- 🌱 I’m currently learning **Kotlin**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const marcin = {
+    pronouns: "He" | "Him",
+    code: ["Java"],
+    tools: [SpringBoot, Docker, Git],
+    askMeAbout: ["web dev", "tech", "music"],
+    currentFocus: "I’m currently learning **Kafka**",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+```
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/marcin-zwierzchowski1/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+---
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/marcin-zwierzchowski-magab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:marcin.zwierzchowski1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -38,11 +46,6 @@ Check out demo song which was created using my project KaraokeMaker
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zwierzchowskim&show_icons=true&locale=en&layout=compact" alt="zwierzchowskim" /></p>
   
-<br> 
-<h3 align="left">🐍 Snake eating my contribution 🐍</h3>
-  
-![snake gif](https://github.com/zwierzchowskim/zwierzchowskim/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
