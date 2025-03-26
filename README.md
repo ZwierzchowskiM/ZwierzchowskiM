@@ -16,15 +16,8 @@ const marcin = {
     code: ["Java"],
     tools: [SpringBoot, Docker, Git],
     askMeAbout: ["web dev", "tech", "music"],
-    currentFocus: "I’m currently learning **Kafka**",
     funFact: "There are two ways to write error-free programs; only the third one works"
 ```
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/marcin-zwierzchowski1/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 ---
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/marcin-zwierzchowski-magab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
